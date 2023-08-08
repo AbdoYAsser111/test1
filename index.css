@@ -1,0 +1,46 @@
+body {
+  
+   margin: 0;
+}
+.A {
+    position: absolute;
+    color: #FFF;
+    font-size: 300px;
+    font-family: 18 Khebrat Musamim;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: auto;
+    height: auto;
+    flex-shrink: 0;
+    text-align: center;
+    margin-left: 394px ;
+    
+
+}
+.s-A {
+   position: absolute;
+   z-index: -1; 
+   width: 1536px;
+   height: 707px;
+   flex-shrink: 0;
+   opacity: 0.6;
+   background: #666;
+   
+
+}
+.s-A-p {
+
+    position: absolute;
+    z-index: -2; 
+    width: 1536px;
+    height: 707px;
+    flex-shrink: 0;
+    background: url(img/pexels-elevate-1267338\ 1.png), lightgray 50% / cover no-repeat;
+    background-size: cover ;
+    background-repeat: no-repeat;
+
+}
+
+
+
