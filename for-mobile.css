@@ -1,0 +1,51 @@
+.A {
+
+    font-size: 45px;
+    margin-top: 212px;
+
+
+}
+.B {
+
+
+    font-size: 136px;
+
+}
+.C {
+
+    font-size: 69px;
+    margin-top: 423px;
+
+
+
+}
+header{
+
+    background-color: rgba(227, 58, 202, 0);
+    margin: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+
+
+
+}
+.humborgr {
+    position: absolute;
+    top: 19px;
+    right: 21px;
+    color: #0097e3;
+}
+.drop-elment {
+
+    top: 81px;
+    right: 8px;
+    background-color: lab(58 -17.39 -49.91);
+}
+.drop-elments-1 {
+
+    width: 133px;
+}
+.drop-elments {
+    width: 132px;
+}
